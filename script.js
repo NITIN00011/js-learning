@@ -63,4 +63,4 @@ console.log("Type of num:", typeof num);
 console.log("Type of car:", typeof car);  
 console.log("Type of array:", typeof array);
 
-
+console.log("Day 3 Completed Successfully");
