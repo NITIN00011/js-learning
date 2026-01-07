@@ -38,3 +38,29 @@ console.log("Birth Year:", birthYear);
 
 console.log("Day 2 Completed Successfully");
 
+
+// JS_DAY_3
+
+let first_name = "Nitin";
+let new_age = 17;
+let isStudent = true;
+let x;
+let num = null;
+
+let car = { 
+    Broand: "Toyota",
+    Model: "Corolla",
+    Year: 2020
+};
+
+let array = [10, 20, 30, 40, 50];
+
+console.log("Type of first_name:", typeof first_name);  
+console.log("Type of new_age:", typeof new_age);
+console.log("Type of isStudent:", typeof isStudent);
+console.log("Type of x:", typeof x);  
+console.log("Type of num:", typeof num);  
+console.log("Type of car:", typeof car);  
+console.log("Type of array:", typeof array);
+
+
