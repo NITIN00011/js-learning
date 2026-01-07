@@ -36,3 +36,5 @@ const birthYear = 2008;
 console.log("Country:", country);
 console.log("Birth Year:", birthYear);
 
+console.log("Day 2 Completed Successfully");
+
