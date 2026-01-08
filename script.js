@@ -64,3 +64,43 @@ console.log("Type of car:", typeof car);
 console.log("Type of array:", typeof array);
 
 console.log("Day 3 Completed Successfully");
+
+
+// JS_DAY_4
+
+let a = 20;  //value assigned to variable a
+let b = 10;  //value assigned to variable b
+
+//arithmetic operations
+let sum = a + b; 
+let subtraction = a - b;
+let multiplication = a * b;
+let division = a / b;
+let modulus = a % b;
+
+console.log("Sum of a and b is:", sum);
+console.log("Subtraction of a and b is:", subtraction);
+console.log("Multiplication of a and b is:", multiplication);
+console.log("Division of a and b is:", division);
+console.log("Modulus of a and b is:", modulus); 
+
+//Comparison operations
+console.log(a == b);
+console.log(a === b);
+console.log(a != b);
+console.log(a !== b);
+console.log(a > b);
+console.log(a < b);
+console.log(a >= b);
+console.log(a <= b);
+
+//Logical Operators
+
+let new_marks = 35;
+let attendance = 80;
+
+console.log(new_marks >= 33 && attendance >= 75);
+console.log(new_marks >= 33 || attendance >= 75);
+console.log(!(new_marks >= 33));
+
+console.log("Day 4 Completed Successfully");
