@@ -104,3 +104,28 @@ console.log(new_marks >= 33 || attendance >= 75);
 console.log(!(new_marks >= 33));
 
 console.log("Day 4 Completed Successfully");
+
+
+// JS_DAY_5
+
+// Conditional Statements
+ let age1 = 18;
+ if (age1 >= 18) {
+     console.log("You are eligible to vote.");
+ } // If condition ends here
+
+ else {
+     console.log("You are not eligible to vote.");
+ } // Else condition ends here
+
+//  if-else
+
+const number = prompt("Enter a number:");
+
+if (number < 0) {
+    console.log("The number is negative.");
+}   else if (number == 0) {
+    console.log("The number is zero.");
+} else {
+    console.log("The number is positive.");
+}
